@@ -7,7 +7,8 @@ Program ini dirancang sistem perpustakaan. terdapat tabel buku, transaksi dan pe
 # DOKUMENTASI #
 1. Daftar Buku
 
-![{D1A6D0F2-A80E-44A1-AFC4-437792EFF7E9}](https://github.com/harismln22/TP3DPBO2024C1/assets/159020670/258e626e-3aa6-45e8-9bcb-eeaa489016cf)
+![{94873A27-C4A7-4F39-8E3E-D9578CAA778B}](https://github.com/harismln22/TP3DPBO2024C1/assets/159020670/f860bf38-b7d3-4a0d-84da-5d1fb06619e2)
+
 
 2. Form tambah, form edit
 
